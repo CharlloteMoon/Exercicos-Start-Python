@@ -3,7 +3,7 @@ print()
 from random import randint
 from time import sleep
 
-print(f'{" Exercicio 91 ":-^40} \n{" Jogo de Dados em Python ":^40} \n')
+print(f'{" Exercício 91 ":-^40} \n{" Jogo de Dados em Python ":^40} \n')
 
 infoJogadores = {}
 
